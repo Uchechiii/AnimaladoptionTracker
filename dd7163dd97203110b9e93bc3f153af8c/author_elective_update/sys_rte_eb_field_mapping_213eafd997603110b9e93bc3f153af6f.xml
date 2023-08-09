@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field/>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:21:05</sys_created_on>
+        <sys_id>213eafd997603110b9e93bc3f153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Animal Shelter Adaption" source="x_1102910_animal_0">dd7163dd97203110b9e93bc3f153af8c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="">180de79997603110b9e93bc3f153af14</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">253eafd997603110b9e93bc3f153af6d</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Animal Shelter Adaption">dd7163dd97203110b9e93bc3f153af8c</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_213eafd997603110b9e93bc3f153af6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:21:05</sys_updated_on>
+        <target_sys_rte_eb_field/>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adaption">dd7163dd97203110b9e93bc3f153af8c</application>
+        <file_path/>
+        <instance_id>cf6c6767dbc2e49049eac59705961947</instance_id>
+        <instance_name>dev106226</instance_name>
+        <name>sys_rte_eb_field_mapping_213eafd997603110b9e93bc3f153af6f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field/><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-08 19:21:05</sys_created_on><sys_id>213eafd997603110b9e93bc3f153af6f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Animal Shelter Adaption" source="x_1102910_animal_0">dd7163dd97203110b9e93bc3f153af8c</sys_package><sys_policy/><sys_rte_eb_definition display_value="">180de79997603110b9e93bc3f153af14</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">253eafd997603110b9e93bc3f153af6d</sys_rte_eb_entity_mapping><sys_scope display_value="Animal Shelter Adaption">dd7163dd97203110b9e93bc3f153af8c</sys_scope><sys_update_name>sys_rte_eb_field_mapping_213eafd997603110b9e93bc3f153af6f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-08 19:21:05</sys_updated_on><target_sys_rte_eb_field/></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>411565645</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7ce12cb6d4a3211095d7c105f1bf439b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-08 19:22:54</sys_created_on>
+        <sys_id>04ae2b1d97603110b9e93bc3f153af5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d69a28060000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:22:54</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>40ae2b1de860311025e88062a686185a</update_guid>
+        <update_guid_history>40ae2b1de860311025e88062a686185a:0,80ae2b1d0c603110bab006856a2b7852:0,ed3eafd9246031109fd6e3da0e2fc56f:1248849090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-08 19:22:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>899dde1912bb4290a05f7a9e2805ba40</sys_id>
+        <sys_metadata>213eafd997603110b9e93bc3f153af6f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Animal Shelter Adaption" source="x_1102910_animal_0">dd7163dd97203110b9e93bc3f153af8c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adaption">dd7163dd97203110b9e93bc3f153af8c</sys_scope>
+        <sys_scope_delete display_value="">731bed038a9e4c7d8285d8a44325aec1</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_213eafd997603110b9e93bc3f153af6f</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_213eafd997603110b9e93bc3f153af6f">04ae2b1d97603110b9e93bc3f153af5a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:22:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

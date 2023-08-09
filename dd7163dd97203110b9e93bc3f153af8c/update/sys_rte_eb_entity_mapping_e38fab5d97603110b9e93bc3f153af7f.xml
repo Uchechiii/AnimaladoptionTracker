@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_SOURCE_TEMP_MAPPING</name>
+        <order>100</order>
+        <source_sys_rte_eb_entity display_value="Source_x_1102910_animal_0_ihub_import_40beab1d97603110b9e93bc3f153af3a">72de2f1d97603110b9e93bc3f153afd2</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:26:58</sys_created_on>
+        <sys_id>e38fab5d97603110b9e93bc3f153af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Animal Shelter Adaption" source="x_1102910_animal_0">dd7163dd97203110b9e93bc3f153af8c</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Breed_etl_ihub">3adea71d97603110b9e93bc3f153afa1</sys_rte_eb_definition>
+        <sys_scope display_value="Animal Shelter Adaption">dd7163dd97203110b9e93bc3f153af8c</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_e38fab5d97603110b9e93bc3f153af7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:26:58</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1102910_animal_0_breed">6b8fab5d97603110b9e93bc3f153af63</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>
