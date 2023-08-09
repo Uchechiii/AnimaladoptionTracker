@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FD29ceeb1d2c603110b6bcab976432223f">a9ceeb1d97603110b9e93bc3f153af3f</published_source_structure>
+        <record_id>0cbeab1d97603110b9e93bc3f153af3a</record_id>
+        <source_structure display_value="ih_import_FD29ceeb1d2c603110b6bcab976432223f">a9ceeb1d97603110b9e93bc3f153af3f</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:23:32</sys_created_on>
+        <sys_id>a9ceeb1d97603110b9e93bc3f153af41</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Animal Shelter Adaption" source="x_1102910_animal_0">dd7163dd97203110b9e93bc3f153af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adaption">dd7163dd97203110b9e93bc3f153af8c</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_a9ceeb1d97603110b9e93bc3f153af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:23:59</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>
